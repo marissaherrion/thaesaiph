@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aighouxeob.odin.tools/sitemap.xml
